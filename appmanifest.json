@@ -1,0 +1,16 @@
+{
+	"name": "FoosBall - Game",
+	"short_name": "FoosBall - Game",
+	"description": "Foosball is table soccer game, now you can play it online in two player game!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "80x80",
+			"type": "image/png"
+		}
+	]
+}
