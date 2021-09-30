@@ -9,3 +9,7 @@ function getScore(x) {
     console.log('total Score '+totalScore);//log
     
     };
+	
+function onDisconect() {
+
+};
